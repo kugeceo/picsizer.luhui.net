@@ -6,7 +6,9 @@ http://picsizer.luhui.net
 免费的在线图片尺寸调整工具，专为需要快速处理图片的用户设计。无需下载安装任何软件，直接在浏览器中即可完成所有操作。
 
 
-# 图尺匠（PicSizer）
+# 图尺匠（PicSizer）演示截图
+
+![演示截图](http://picsizer.luhui.net/screenshots.jpg)
 
 图尺匠（PicSizer）是一款免费的在线图片尺寸调整工具，专为需要快速处理图片的用户设计。无需下载安装任何软件，直接在浏览器中即可完成所有操作。
 
@@ -154,5 +156,6 @@ http://picsizer.luhui.net
 ## 联系方式
 
 如有任何问题或建议，请联系：[info@mail.luhui.net](mailto:info@mail.luhui.net)
+
 
 
